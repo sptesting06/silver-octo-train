@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-15T14:02:53 CST" name="Default suite" finished-at="2022-01-15T14:03:06 CST" duration-ms="13010">
+    <groups>
+    </groups>
+    <test started-at="2022-01-15T14:02:53 CST" name="Default test" finished-at="2022-01-15T14:03:06 CST" duration-ms="13010">
+      <class name="CallingAllMethods.AllMethods">
+        <test-method signature="practiceall()[pri:0, instance:CallingAllMethods.AllMethods@3972a855]" started-at="2022-01-15T14:02:53 CST" name="practiceall" finished-at="2022-01-15T14:03:06 CST" duration-ms="12959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceall -->
+      </class> <!-- CallingAllMethods.AllMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
