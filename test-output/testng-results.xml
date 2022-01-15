@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-15T14:02:53 CST" name="Default suite" finished-at="2022-01-15T14:03:06 CST" duration-ms="13010">
+  <suite name="Default suite" duration-ms="12392" started-at="2022-01-15T16:54:50 CST" finished-at="2022-01-15T16:55:03 CST">
     <groups>
     </groups>
-    <test started-at="2022-01-15T14:02:53 CST" name="Default test" finished-at="2022-01-15T14:03:06 CST" duration-ms="13010">
+    <test name="Default test" duration-ms="12392" started-at="2022-01-15T16:54:50 CST" finished-at="2022-01-15T16:55:03 CST">
       <class name="CallingAllMethods.AllMethods">
-        <test-method signature="practiceall()[pri:0, instance:CallingAllMethods.AllMethods@3972a855]" started-at="2022-01-15T14:02:53 CST" name="practiceall" finished-at="2022-01-15T14:03:06 CST" duration-ms="12959" status="PASS">
+        <test-method status="PASS" signature="practiceall()[pri:0, instance:CallingAllMethods.AllMethods@33f88ab]" name="practiceall" duration-ms="12361" started-at="2022-01-15T16:54:50 CST" finished-at="2022-01-15T16:55:03 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- practiceall -->
